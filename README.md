@@ -1,6 +1,13 @@
 # contador_de_pessoas
 
-Contador de pessoas
+Contador de pessoas - Primeiro projeto usando/testando conhecimentos em Flutter e Dart.
+
+Conceitos de StatefulWidget, Stack, Image/Assets, Column, Row, Padding, FlatButton.
+
+Criado no Android Studio.
+
+("doc/app1.png")
+
 
 ## Getting Started
 
