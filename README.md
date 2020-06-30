@@ -6,8 +6,7 @@ Conceitos de StatefulWidget, Stack, Image/Assets, Column, Row, Padding, FlatButt
 
 Criado no Android Studio.
 
-(https://github.com/tiagomartinscc/flutter-contador-de-pessoas/raw/master/doc/app1.png)
-
+<img src="https://github.com/tiagomartinscc/flutter-contador-de-pessoas/raw/master/doc/app1.png" />
 
 ## Getting Started
 
